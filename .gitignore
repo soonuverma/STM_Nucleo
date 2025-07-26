@@ -1,0 +1,18 @@
+# STM32CubeIDE generated files
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.list
+*.log
+.build/
+Debug/
+Release/
+.ipch/
+.settings/
+.vscode/
+*.ioc
+*.user
